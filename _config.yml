@@ -2,13 +2,13 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://jiajialing.github.io
+url: https://bemvp.github.io
 date_format: "ordinal"
-title: jiajialing
-subtitle: "Pain is inevitable Suffering is optional"
+title: bemvp
+subtitle: "千里之行 始于足下"
 #"Pain is inevitable Suffering is optional"
-description: "jiajialing's Blog"
-keywords: jiajialing
+description: "bemvp"
+keywords: 何乐
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -16,10 +16,10 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: jiajialing
+author: 何乐
 organization:
 organization_url:
-github_username: jiajialing
+github_username: bemvp
 location: ChangShang
 email: ruplaying@gmail.com
 
