@@ -8,7 +8,7 @@ title: bemvp
 subtitle: "千里之行 始于足下"
 #"Pain is inevitable Suffering is optional"
 description: "bemvp"
-keywords: 何乐
+keywords: bemvp
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -16,7 +16,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 何乐
+author: bemvp
 organization:
 organization_url:
 github_username: bemvp
@@ -82,7 +82,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: jiajialing/jiajialing.github.io
+repository: bemvp/bemvp.github.io
 
 # ---------------- #
 #      Comments    #
@@ -96,17 +96,17 @@ disqus:
     username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: jiajialing
-    repo: https://jiajialing.github.io
+    owner: bemvp
+    repo: https://bemvp.github.io
     oauth:
-        client_id: 8bfb73ed8a05331fc8aa
-        client_secret: f0bd3408c1c16677c3108f6843372c7fc6863fa3
+        client_id: 11653ace2d0644331fcc
+        client_secret: d6ab70df432b0dfe57be544d4aa51a37d430a0f4
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: jiajialing
-    repo: blog_comments
-    clientID: 8bfb73ed8a05331fc8aa
-    clientSecret: f0bd3408c1c16677c3108f6843372c7fc6863fa3
+    owner: bemvp
+    repo: bemvp_blog_comments
+    clientID: 11653ace2d0644331fcc
+    clientSecret: d6ab70df432b0dfe57be544d4aa51a37d430a0f4
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
