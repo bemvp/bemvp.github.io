@@ -31,6 +31,7 @@ changelog: 2019-5-3 20:21:45
 上月生命之花:
 
 （此处插入图片）
+![life-flower](/images/life-flower/190504.jpg)
 
 #### （二）对更高维度目标达成情况的分析
 
@@ -45,7 +46,7 @@ changelog: 2019-5-3 20:21:45
 #### （四） 一条感悟
 上个月你收获的最大感悟是什么？至少写一条
 
-![life-flower](./images/life-flower/190504.jpg)
+
 
 
 ---
