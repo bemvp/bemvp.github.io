@@ -45,7 +45,7 @@ changelog: 2019-5-3 20:21:45
 #### （四） 一条感悟
 上个月你收获的最大感悟是什么？至少写一条
 
-![life-flower](images/life-flower/190504.jpg)
+![life-flower](./images/life-flower/190504.jpg)
 
 
 ---
