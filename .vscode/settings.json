@@ -1,0 +1,18 @@
+{
+    "editor.fontSize": 16,
+    "markdown.preview.fontSize": 16,
+    "markdown.preview.scrollPreviewWithEditor": false,
+    "markdown.preview.scrollEditorWithPreview": false,
+    "markdown.extension.toc.githubCompatibility": true,
+    "markdown.extension.toc.orderedList": true,
+    "markdown.extension.toc.plaintext": true,
+    "markdown-preview-enhanced.enableCriticMarkupSyntax": true,
+    "markdown-preview-enhanced.enableScriptExecution": true,
+    "markdown-preview-enhanced.enableTypographer": true,
+    "markdown-preview-enhanced.mermaidTheme": "forest",
+    "markdown-preview-enhanced.previewTheme": "one-dark.css",
+    "markdown-preview-enhanced.revealjsTheme": "black.css",
+    "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
+    "markdown.preview.lineHeight": 1.7,
+    "markdown-preview-enhanced.frontMatterRenderingOption": "table"
+}
