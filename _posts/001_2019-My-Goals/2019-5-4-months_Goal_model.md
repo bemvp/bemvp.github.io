@@ -130,4 +130,6 @@ changelog: 2019-5-3 20:31:57
 
 #### ChangeLog
 
+![life-flower](/images/life-flower/longmao.gif)
+
 2018-x-x 更新内容 发布 by 博根
