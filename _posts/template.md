@@ -8,3 +8,5 @@ changelog:
 ---
 
 Content here
+
+![life-flower](/images/life-flower/longmao.gif)

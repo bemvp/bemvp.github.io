@@ -198,7 +198,8 @@ changelog: 2019-5-3 20:21:45
 
 下月生命之花预期:
 
-![](/images/life-flower/190504yuqi.png)
+![生命之花](/images/life-flower/190504yuqi.png)
+
 - 职业发展: (8分)
   - 更加坚定而从容，基于价值思维和边际成本递减
   - 做更难的事，合法赚钱
