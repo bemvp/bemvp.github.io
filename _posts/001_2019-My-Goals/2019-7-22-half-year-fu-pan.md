@@ -445,9 +445,7 @@ changelog: 190722-
 >做这件事要取得什么成果？还有么？
 >为了获得这些成果，要做哪些任务？还有么？
 >>
->>升级版本
->>![port话术](/images/wiki/port-hs.jpg)
->>![port制定](/images/wiki/port-zhiding.jpg)
+
 
 - **Achievement，成果。经验封装，作品声音**
 >**<u>老师的作品声音：概念化，模型化，系统化的各种流程图

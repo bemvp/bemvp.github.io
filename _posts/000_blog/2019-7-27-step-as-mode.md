@@ -96,6 +96,10 @@ changelog:
 >>
 >>T：Task，任务，把所有精力都关注在任务上，是典型的执行者特征，而管理者，最后才考虑任务是什么。
 >
+>>升级版本
+>>
+>>![port话术](/images/wiki/port-hs.jpg)
+>>![port制定](/images/wiki/port-zhiding.jpg)
 >
 >**刻意训练PORT的话术：**
 >>做这件事的目的是什么？还有么？
