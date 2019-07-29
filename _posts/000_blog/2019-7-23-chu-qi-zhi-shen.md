@@ -4,7 +4,7 @@ title: 《出奇制胜-如何在不确定的世界加速成功》读书笔记
 categories: [读书, 读书笔记]
 description: 应对不确定性世界的十大策略
 keywords: 读书, 读书笔记
-changelog: 190723-
+changelog: 190729-16:59 
 ---
 
 ### 打造自己
