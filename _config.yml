@@ -50,7 +50,9 @@ navs:
   -
     href: /about/
     label: 关于
-
+ -
+    href: /mounth-goals/
+    label: 月目标
 # ---------------- #
 #       RSS        #
 # ---------------- #
