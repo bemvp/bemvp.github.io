@@ -11,9 +11,9 @@ permalink: /mgoals/
 > 记多少命令和快捷键会让脑袋爆炸呢？
 
 <ul class="listing">
-{% for mgoals in site.mgoals %}
-{% if mgoals.title != "Mgoals Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ mgoals.url }}">{{ mgoals.title }}</a></li>
+{% for mgoal in site.mgoals %}
+{% if mgoal.title != "Mgoals Template" %}
+<li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
