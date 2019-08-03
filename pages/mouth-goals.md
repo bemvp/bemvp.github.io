@@ -4,7 +4,7 @@ title: 月目标
 description: 我的月目标
 keywords: mouth-goals 月目标
 comments: false
-menu: 维基
+menu: mouth-goals
 permalink: /mouth-goals/
 ---
 
