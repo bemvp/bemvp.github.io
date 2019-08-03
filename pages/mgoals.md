@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: 月目标
 description: 我的月目标
 keywords: mouth-goals, 月目标

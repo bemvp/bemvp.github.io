@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 190411-01-反思这几天玩游戏
 categories: [反思自我]
 description: 没有反思就没有反馈，没有反馈就不会提升，反馈指导行为

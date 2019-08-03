@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 波利亚解题表
 categories: [复盘, 思路]
 description: 如何更好的解决问题
