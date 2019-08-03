@@ -8,7 +8,7 @@ menu: mgoals
 permalink: /mgoals/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> **我的月目标**
 
 <ul class="listing">
 {% for mgoals in site.mgoals %}

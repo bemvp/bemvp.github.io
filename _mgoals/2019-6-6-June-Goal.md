@@ -1,5 +1,5 @@
 ---
-layout: mgoals
+layout: page
 title: 190608-6月月目标
 categories: [月目标]
 description: 6月月目标
