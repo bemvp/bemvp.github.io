@@ -46,10 +46,12 @@ navs:
   -
     href: /links/
     label: 大佬们
-  -
-    href: /mgoals/
-    label: 月目标
-
+    
+# ---------------- #
+#  -
+#    href: /mgoals/#
+#    label: 月目标#
+# ---------------- #
   -
     href: /about/
     label: 关于
