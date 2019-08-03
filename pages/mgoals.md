@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: default
 title: 月目标
 description: 我的月目标
 keywords: mouth-goals 月目标
 comments: false
-menu: mouth-goals
-permalink: /mouth-goals/
+menu: mgoals
+permalink: /mgoals/
 ---
 
 > 记多少命令和快捷键会让脑袋爆炸呢？
