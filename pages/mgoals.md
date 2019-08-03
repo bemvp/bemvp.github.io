@@ -11,9 +11,9 @@ permalink: /mouth-goals/
 > 记多少命令和快捷键会让脑袋爆炸呢？
 
 <ul class="listing">
-{% for mouth-goals in site.mouth-goals %}
-{% if mouth-goals.title != "mouth-goals Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ mouth-goals.url }}">{{ mouth-goals.title }}</a></li>
+{% for mgoals in site.mgoals %}
+{% if mgoals.title != "mgoals Template" %}
+<li class="listing-item"><a href="{{ site.url }}{{ mgoals.url }}">{{ mgoals.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>

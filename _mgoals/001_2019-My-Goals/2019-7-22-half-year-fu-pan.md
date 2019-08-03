@@ -1,6 +1,6 @@
 ---
 
-layout: mouth-goals
+layout: mgoals
 title: 2019半年总结与复盘
 categories: [复盘]
 description: 2019半年复盘

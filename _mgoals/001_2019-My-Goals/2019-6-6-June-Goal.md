@@ -1,5 +1,5 @@
 ---
-layout: mouth-goals
+layout: mgoals
 title: 190608-6月月目标
 categories: [月目标]
 description: 6月月目标

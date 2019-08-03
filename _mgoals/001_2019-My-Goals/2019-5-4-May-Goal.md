@@ -1,5 +1,5 @@
 ---
-layout: mouth-goals
+layout: mgoals
 title: 190503-5月目标
 categories: [月目标]
 description: 回顾和月目标
