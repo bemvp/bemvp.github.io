@@ -20,7 +20,7 @@ author: bemvp
 organization:
 organization_url:
 github_username: bemvp
-location: ChangShang
+location: GuangZhou
 email: ruplaying@gmail.com
 
 # ---------------- #
@@ -50,7 +50,7 @@ navs:
   -
     href: /about/
     label: 关于
- -
+  -
     href: /mgoals/
     label: 月目标
 # ---------------- #
