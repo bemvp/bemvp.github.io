@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 来自V先生的启发
 categories: [反思自我]
 description: 关于自我提升的一些东西，用产品和营销思维打造自己

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 再读《了凡四训》
 categories: [反思自我]
 description: 没有反思就没有反馈，没有反馈就不会提升，反馈指导行为

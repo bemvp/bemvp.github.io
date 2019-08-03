@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: posts
 title: 用了它，三个月获得三年的工作经验
 categories: [复合模型]
 description: StepAs让你成长飞起来！

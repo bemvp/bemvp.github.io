@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: 波利亚解题表
 categories: [复盘, 思路]
 description: 如何更好的解决问题
@@ -41,3 +41,13 @@ changelog: 2019年7月25日11:11:45 创建
 - 我能检查这个结果吗？我能论证这个结果吗？
 - 能以不同的方式推导这个结果吗？能一眼看出来吗？
 - 能在别的题目或者别的事情上利用这个结果或者这种方法吗？
+
+
+---
+layout: posts
+title: 波利亚解题表
+categories: [复盘, 思路]
+description: 如何更好的解决问题
+keywords: 解决问题, 思路
+changelog: 2019年7月25日11:11:45 创建
+---
