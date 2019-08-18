@@ -9,4 +9,4 @@ changelog:
 
 Content here
 
-![life-flower](/imagesfe-flower/longmao.gif)/li
+![life-flower](/imagesfe-flower/longmao.gif)
