@@ -1,7 +1,7 @@
 ---
 layout: mgoal
 title: 190503-5月目标
-categories: [月目标]
+categories: goals
 description: 回顾和月目标
 keywords: 月目标, 5月月目标
 changelog: 2019-5-3 20:21:45
