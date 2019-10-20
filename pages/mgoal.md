@@ -12,16 +12,10 @@ permalink: /mgoal/
 
 > God made relatives. Thank God we can choose our friends.
 
-<ul class="listing">
-{% for wiki in site.wiki %}
-{% if wiki.title != "Wiki Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ wiki.url }}">{{ wiki.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
+
 
 <ul class="listing">
-{% for mgoal in site.mgoals %}
+{% for mgoal in site.mgoal %}
 {% if mgoal.title != "Mgoal Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
 {% endif %}
