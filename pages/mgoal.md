@@ -14,7 +14,7 @@ permalink: /mgoal/
 > 
 <ul class="listing">
 {% for wiki in site.mgoal %}
-{% if mgoal.title != "Wiki Template" %}
+{% if mgoal.title != "mgoal Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
 {% endif %}
 {% endfor %}
