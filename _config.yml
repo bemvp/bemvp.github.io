@@ -94,6 +94,11 @@ collections:
         output: true
         permalink: /wiki/:path/
 
+collections:
+    wiki1:
+        output: true
+        permalink: /wiki1/:path/
+
 repository: bemvp/bemvp.github.io
 
 # ---------------- #
