@@ -1,6 +1,6 @@
 ---
 layout: page
-title: mgoals
+title: mgoal
 description: 我的月目标
 keywords: mouth-goals, 月目标
 comments: false
@@ -11,8 +11,12 @@ permalink: /mgoal/
 > **我的月目标**
 
 > God made relatives. Thank God we can choose our friends.
-
-{% for link in site.data.links %}
-* [{{ link.name }}]({{ link.url }})
+> 
+<ul class="listing">
+{% for wiki in site.mgoal %}
+{% if mgoal.title != "Wiki Template" %}
+<li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
+{% endif %}
 {% endfor %}
+</ul>
 
