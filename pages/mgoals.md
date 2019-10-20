@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 月目标
+title: mgoals
 description: 我的月目标
 keywords: mouth-goals, 月目标
 comments: false
