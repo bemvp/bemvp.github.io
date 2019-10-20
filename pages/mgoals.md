@@ -11,9 +11,10 @@ permalink: /mgoals/
 > **我的月目标**
 
 <ul class="listing">
-{% for mgoals in site.mgoals %}
-{% if mgoals.title != "Mgoals Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ mgoals.url }}">{{ mgoals.title }}</a></li>
+{% for mgoal in site.mgoal %}
+{% if mgoal.title != "Mgoal Template" %}
+<li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>
+
