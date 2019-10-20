@@ -13,7 +13,7 @@ permalink: /mgoal/
 > God made relatives. Thank God we can choose our friends.
 > 
 <ul class="listing">
-{% for mgoal in site.mgoal %}
+{% for mgoal in site.mgoals %}
 {% if mgoal.title != "Mgoal Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
 {% endif %}
