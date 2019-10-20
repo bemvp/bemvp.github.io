@@ -39,9 +39,6 @@ navs:
 #     href: /archives/
 #     label: 归档
 
- -
-    href: /wiki1/
-    label: wiki1
   -
     href: /wiki/
     label: wiki
@@ -93,11 +90,6 @@ collections:
     wiki:
         output: true
         permalink: /wiki/:path/
-
-collections:
-    wiki1:
-        output: true
-        permalink: /wiki1/:path/
 
 repository: bemvp/bemvp.github.io
 

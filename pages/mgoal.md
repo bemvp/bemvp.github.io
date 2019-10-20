@@ -10,11 +10,9 @@ permalink: /mgoal/
 
 > **我的月目标**
 
-<ul class="listing">
-{% for mgoal in site.mgoal %}
-{% if mgoal.title != "Mgoal Template" %}
-<li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
-{% endif %}
+> God made relatives. Thank God we can choose our friends.
+
+{% for link in site.data.links %}
+* [{{ link.name }}]({{ link.url }})
 {% endfor %}
-</ul>
 
