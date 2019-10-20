@@ -44,7 +44,7 @@ navs:
     label: wiki
   -
     href: /mgoal/
-    label: 月目标
+    label: goals
 
   -
     href: /links/
@@ -89,7 +89,7 @@ gems:
 collections:
     wiki:
         output: true
-        permalink: /wiki/:path/
+        permalink: /wiki/:path/   
 
 repository: bemvp/bemvp.github.io
 
