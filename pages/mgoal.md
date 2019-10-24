@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: wiki
 title: mouth-goals
 description: 我的月目标
 keywords: mouth-goals, 月目标
@@ -16,7 +16,7 @@ permalink: /mgoal/
 
 <ul class="listing">
 {% for mgoal in site.mgoal %}
-{% if mgoal.title != "Mgoal Template" %}
+{% if mgoal.title == "Mgoal Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
 {% endif %}
 {% endfor %}
