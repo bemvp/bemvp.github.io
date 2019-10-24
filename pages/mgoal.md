@@ -11,9 +11,7 @@ permalink: /mgoal/
 > **我的月目标**
 
 > God made relatives. Thank God we can choose our friends.
-
-
-
+> 
 <ul class="listing">
 {% for mgoal in site.mgoal %}
 {% if mgoal.title != "Mgoal Template" %}

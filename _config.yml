@@ -89,7 +89,10 @@ gems:
 collections:
     wiki:
         output: true
-        permalink: /wiki/:path/   
+        permalink: /wiki/:path/  
+    mgoal:
+        output: true
+        permalink: /mygoal/:path/ 
 
 repository: bemvp/bemvp.github.io
 
