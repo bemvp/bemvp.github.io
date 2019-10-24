@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: categories
 title: mouth-goals
 description: 我的月目标
 keywords: mouth-goals, 月目标
