@@ -5,6 +5,7 @@ categories: [读书]
 description: 敬天爱人
 keywords: 读书, 稻盛和夫
 changelog: 2019-8-18 22:04:42
+changelog: 2019-11-1 08:56:48 增加稻盛和夫的视频资源
 ---
 ### 自勉-向大师学习
 
@@ -63,3 +64,6 @@ changelog: 2019-8-18 22:04:42
 
 - **会计7原则**
   ![会计7原则](/images/read-books/7-kuai-ji-yuan-ze.jpg)
+
+---
+- #### [稻盛和夫的经营笔记](https://b23.tv/av61582836/p1)
