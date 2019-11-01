@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 要谨慎的思考和做事
-categories: [反思]
+categories: [反思自我]
 description: 常思己过，便能修身成长
 keywords: 反思
 changelog:
