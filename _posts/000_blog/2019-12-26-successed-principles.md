@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 成功的原则(迷你探险)全文
-categories: [cate1, cate2]
+title: 成功的原则(超迷你探险)全文
+categories: [《成功的原则》]
 description: some word here
 keywords: keyword1, keyword2
 changelog: 191226-13:31 - 13:50 
@@ -234,3 +234,6 @@ changelog: 191226-13:31 - 13:50
 现在你必须决定自己的进化方式，你要忘了这些原则是从哪里来的，你只评估对你有没有用，并改进他们，以适应你的需求。像所有的人生决定一样，你如何对待这些原则，最终取决于你自己。
 
 我对你的唯一期望是：**你要有勇气去奋力拼搏，去实现最好的生活。**谢谢，再见！
+
+> 视频地址：
+> [《成功的原则》](http://finance.sina.com.cn/china/gncj/2019-02-27/doc-ihrfqzka9466841.shtml)
