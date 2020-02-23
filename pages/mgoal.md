@@ -50,7 +50,7 @@ permalink: /mgoal/
         {% if thisyear != 0 %}
             {% assign thisyear = 0 %}
         {% endif %}
-        <ol class="posts-list">
+        <ol class="mgoal-list">
         {% assign i = i | plus: 1 %}
     {% endif %}
 <li class="mgoal-list-item">
