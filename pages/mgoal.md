@@ -12,53 +12,27 @@ permalink: /mgoal/
 
 > God made relatives. Thank God we can choose our friends.
 > 
-<!-- <ul class="listing">
+<ul class="listing">
 {% for mgoal in site.mgoal %}
 {% if mgoal.title != "Mgoal Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
 {% endif %}
 {% endfor %}
-</ul>-->
+</ul>
 
 <section class="container mgoal-content">
-{% assign count = 1 %}
-{% for mgoal in site.mgoal reversed %}
-    {% assign year = mgoal.date | date: '%Y' %}
-    {% assign nyear = mgoal.next.date | date: '%Y' %}
-    {% if year != nyear %}
-        {% assign count = count | append: ', ' %}
-        {% assign counts = counts | append: count %}
-        {% assign count = 1 %}
-    {% else %}
-        {% assign count = count | plus: 1 %}
-    {% endif %}
-{% endfor %}
-
-{% assign counts = counts | split: ', ' | reverse %}
-{% assign i = 0 %}
-
-{% assign thisyear = 1 %}
-
-{% for mgoal in site.mgoal %}
-    {% assign year = mgoal.date | date: '%Y' %}
-    {% assign nyear = mgoal.next.date | date: '%Y' %}
-    {% if year != nyear %}
-        {% if thisyear != 1 %}
-            </ol>
-        {% endif %}
-<h3>{{ mgoal.date | date: '%Y' }} ({{ counts[i] }})</h3>
-        {% if thisyear != 0 %}
-            {% assign thisyear = 0 %}
-        {% endif %}
-        <ol class="mgoal-list">
-        {% assign i = i | plus: 1 %}
-    {% endif %}
+{% assign sorted_categories = site.categories | sort %}
+{% for category in sorted_categories %}
+<h3>{{ category | first }}</h3>
+<ol class="mgoal-list" id="{{ category[0] }}">
+{% for mgoal in category.last %}
 <li class="mgoal-list-item">
-<span class="mgoal-list-meta">{{ mgoal.date | date:"%m-%d" }}</span>
+<span class="mgoal-list-meta">{{ mgoal.date | date:"%Y-%m-%d" }}</span>
 <a class="mgoal-list-name" href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a>
 </li>
 {% endfor %}
 </ol>
+{% endfor %}
 </section>
-
+<!-- /section.content -->
 

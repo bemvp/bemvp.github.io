@@ -39,7 +39,7 @@ permalink: /about/
   
    - wordpress：类似于[我做的站www.runplay.top](www.runplay.top/)
   
-   - github+jeykll: [我的个人站:jiajialing.github.io](https://jiajialing.github.io)
+   - github+jeykll: [我的个人站:bemvp.github.io](https://jiajialing.github.io)
 
 
 - 【想勾搭】
@@ -52,7 +52,8 @@ permalink: /about/
   - 1.一个百天计划（写作）
   - 2.20个主题阅读输出30+小主题论文 已经完成3个了，持续推进中
   - 3.作为1场线下或者线上大于50人活动的发起人
-
+  - 
+- 【2020年的三个期待】
 
 ---
 ### 我的思考
