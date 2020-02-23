@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: categories
 title: mouth-goals
 description: 我的月目标
 keywords: mouth-goals, 月目标
@@ -21,11 +21,11 @@ permalink: /mgoal/
 </ul>
 
 <section class="container mgoal-content">
-{% assign sorted_categories = site.categories | sort %}
-{% for category in sorted_categories %}
-<h3>{{ category | first }}</h3>
+{% assign sorted_mgoal = site.mgoal | sort %}
+{% for mgoal in sorted_mgoal %}
+<h3>{{ mgoal | first }}</h3>
 <ol class="mgoal-list" id="{{ category[0] }}">
-{% for mgoal in category.last %}
+{% for mgoal in mgoal.last %}
 <li class="mgoal-list-item">
 <span class="mgoal-list-meta">{{ mgoal.date | date:"%Y-%m-%d" }}</span>
 <a class="mgoal-list-name" href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a>
