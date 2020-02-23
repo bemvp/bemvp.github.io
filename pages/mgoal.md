@@ -20,19 +20,5 @@ permalink: /mgoal/
 {% endfor %}
 </ul>
 
-<section class="container mgoal-content">
-{% assign sorted_mgoal = site.mgoal | sort %}
-{% for mgoal in sorted_mgoal %}
-<h3>{{ mgoal | first }}</h3>
-<ol class="mgoal-list" id="{{ mgoal[0] }}">
-{% for mgoal in mgoal.last %}
-<li class="mgoal-list-item">
-<span class="mgoal-list-meta">{{ mgoal.date | date:"%Y-%m-%d" }}</span>
-<a class="mgoal-list-name" href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a>
-</li>
-{% endfor %}
-</ol>
-{% endfor %}
-</section>
-<!-- /section.content -->
+
 
