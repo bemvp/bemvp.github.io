@@ -46,7 +46,7 @@ permalink: /mgoal/
         {% if thisyear != 1 %}
             </ol>
         {% endif %}
-<h3>{{ post.date | date: '%Y' }} ({{ counts[i] }})</h3>
+<h3>{{ mgoal.date | date: '%Y' }} ({{ counts[i] }})</h3>
         {% if thisyear != 0 %}
             {% assign thisyear = 0 %}
         {% endif %}
@@ -54,7 +54,7 @@ permalink: /mgoal/
         {% assign i = i | plus: 1 %}
     {% endif %}
 <li class="mgoal-list-item">
-<span class="mgoal-list-meta">{{ post.date | date:"%m-%d" }}</span>
+<span class="mgoal-list-meta">{{ mgoal.date | date:"%m-%d" }}</span>
 <a class="mgoal-list-name" href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a>
 </li>
 {% endfor %}
