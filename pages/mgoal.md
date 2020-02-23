@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pages
 title: mouth-goals
 description: 我的月目标
 keywords: mouth-goals, 月目标
@@ -12,18 +12,19 @@ permalink: /mgoal/
 
 > God made relatives. Thank God we can choose our friends.
 > 
-<!--<ul class="listing">
+<!-- <ul class="listing">
 {% for mgoal in site.mgoal %}
 {% if mgoal.title != "Mgoal Template" %}
 <li class="listing-item"><a href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a></li>
 {% endif %}
 {% endfor %}
 </ul>-->
-<section class="container posts-content">
+
+<section class="container mgoal-content">
 {% assign count = 1 %}
-{% for post in site.posts reversed %}
-    {% assign year = post.date | date: '%Y' %}
-    {% assign nyear = post.next.date | date: '%Y' %}
+{% for mgoal in site.mgoal reversed %}
+    {% assign year = mgoal.date | date: '%Y' %}
+    {% assign nyear = mgoal.next.date | date: '%Y' %}
     {% if year != nyear %}
         {% assign count = count | append: ', ' %}
         {% assign counts = counts | append: count %}
@@ -38,9 +39,9 @@ permalink: /mgoal/
 
 {% assign thisyear = 1 %}
 
-{% for post in site.posts %}
-    {% assign year = post.date | date: '%Y' %}
-    {% assign nyear = post.next.date | date: '%Y' %}
+{% for mgoal in site.mgoal %}
+    {% assign year = mgoal.date | date: '%Y' %}
+    {% assign nyear = mgoal.next.date | date: '%Y' %}
     {% if year != nyear %}
         {% if thisyear != 1 %}
             </ol>
@@ -52,9 +53,9 @@ permalink: /mgoal/
         <ol class="posts-list">
         {% assign i = i | plus: 1 %}
     {% endif %}
-<li class="posts-list-item">
-<span class="posts-list-meta">{{ post.date | date:"%m-%d" }}</span>
-<a class="posts-list-name" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+<li class="mgoal-list-item">
+<span class="mgoal-list-meta">{{ post.date | date:"%m-%d" }}</span>
+<a class="mgoal-list-name" href="{{ site.url }}{{ mgoal.url }}">{{ mgoal.title }}</a>
 </li>
 {% endfor %}
 </ol>
