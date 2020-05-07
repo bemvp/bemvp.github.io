@@ -1,44 +1,12 @@
 ---
-layout: post
+layout: mgoal
 title: 2020年5月目标
 categories: [月目标]
 description: 月目标
 keywords: 月目标
 changelog: 200501--8:09- 
 
-<table border="1">
-	<!-- 行 -->
-	<tr>
-    	<!-- 单元格 -->
-        <td>姓名</td>
-        <td>性别</td>
-        <td>年龄</td>
-    </tr>
-    <tr>
-    	<!-- 单元格 -->
-        <td>令狐冲</td>
-        <td>男</td>
-        <td>22</td>
-    </tr>
-    <tr>
-    	<!-- 单元格 -->
-        <td>任盈盈</td>
-        <td>女</td>
-        <td>18</td>
-    </tr>
-    <tr>
-    	<!-- 单元格 -->
-        <td>任我行</td>
-        <td>男</td>
-        <td>55</td>
-    </tr>
-    <tr>
-    	<!-- 单元格 -->
-        <td>岳不群</td>
-        <td>男</td>
-        <td>50</td>
-    </tr>
-</table>
+
 ---
 
 ### 一、回顾过去，4月份回顾与分析-复盘
