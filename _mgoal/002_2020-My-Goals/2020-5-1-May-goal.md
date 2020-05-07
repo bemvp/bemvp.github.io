@@ -1,5 +1,5 @@
 ---
-layout: mgoal
+layout: page
 title: 2020年5月目标
 categories: [月目标]
 description: 月目标
