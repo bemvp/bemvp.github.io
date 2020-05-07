@@ -447,6 +447,8 @@ changelog: 200501--8:09-
 
 
 #### ChangeLog
+- 花的时间比较多：6天
+- 完成了，现在200507-19:31 - 就去做
 
-![life-flower](/images/life-flower/longmao.gif
+![life-flower](/images/life-flower/longmao.gif)
 
